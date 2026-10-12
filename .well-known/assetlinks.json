@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.teamragnarokasd.twa",
+        "sha256_cert_fingerprints": ["44:BF:E9:2A:65:BB:57:16:CE:EE:17:B8:47:91:A1:D6:16:19:C2:FD:0C:7B:13:6D:68:83:A6:7C:4D:50:C6:04"]
+      }
+    }]
